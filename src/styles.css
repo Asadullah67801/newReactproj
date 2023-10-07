@@ -1,0 +1,57 @@
+/*
+form{
+  display:flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+}
+form{
+  background-color: dodgerblue;
+  width:300px;
+  margin-left:90px;
+}
+h2{
+  text-align:center;
+}
+input{
+  padding:10px 12px;
+
+  margin:10px;
+}
+p{
+  background-color:blanchedalmond;
+
+}
+button {
+  background-color:gold;
+  border:none;
+  padding:9px 9px;
+  width:20%;
+  margin:10px;
+  border-radius: 8px;
+  text-align:center;
+  outline:1px solid black;
+}
+
+*/
+
+h1{
+  text-align:center;
+  font-family:'poppins';
+}
+input{
+  border-bottom: 1px solid black;
+  background:transparent;
+
+  position:relative;
+  margin-top:100px;
+margin-left :80px; 
+
+}
+button {
+
+  margin-left:9px;
+  padding:9px;
+  background-color:orange;
+  border:1px solid white;
+}
